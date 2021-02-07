@@ -1,5 +1,8 @@
 # Contributing
 
+## Änderungen in der Contributing.md
+Bitte sende eine Email an: lieblings-kollege@firma.de
+
 Your contributions are always welcome!
 
 ## Guideline
